@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/daniel-r-tallman">IT Professional</a>☺</h1>
+<h1>Hi, I'm Daniel, an <a href="https://linkedin.com/in/daniel-r-tallman">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
